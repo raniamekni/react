@@ -1,0 +1,14 @@
+
+#img{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: aqua;
+
+}
+#adr{
+  color: plum;
+}
+#name{
+  color: plum;
+}
